@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God manifested by his works, and justified in his dealings with men a sermon preached at the cathedral church of Sarum, upon the 29th day of June, 1677 / by Paul Lathom.</title>
+            <author>Lathom, Paul.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49698</idno>
+            <idno type="STC">Wing L573</idno>
+            <idno type="STC">ESTC R25447</idno>
+            <idno type="EEBO-CITATION">08959688</idno>
+            <idno type="OCLC">ocm 08959688</idno>
+            <idno type="VID">42109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42109)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1288:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God manifested by his works, and justified in his dealings with men a sermon preached at the cathedral church of Sarum, upon the 29th day of June, 1677 / by Paul Lathom.</title>
+                  <author>Lathom, Paul.</author>
+               </titleStmt>
+               <extent>[1], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Royston,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Romans I, 20 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42109:1"/>
+            <pb facs="tcp:42109:1" rendition="simple:additions"/>
+            <p>GOD <hi>MANIFESTED</hi> by his <hi>WORKS,</hi> AND Juſtified in his Dealings with MEN.</p>
+            <p>A SERMON PREACHED At the Cathedral Church of SARUM, Upon the 29<hi rend="sup">th</hi> Day of <hi>June,</hi> 1677.</p>
+            <p>By <hi>Paul Lathom,</hi> Prebendary of the ſame Church.</p>
+            <q>
+               <bibl>
+                  <hi>Rom. 3.19.</hi>
+               </bibl> That every mouth may be stopped, and all the World may become guilty before God.</q>
+            <figure>
+               <head>QVISEQVITVR ME NON AMBVLAT IN TENEBRIS</head>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Rich. Royſton,</hi> Bookſeller to His moſt Sacred MAJESTY, <hi>An. Dom.</hi> MDCLXXVIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:42109:2"/>
+            <pb facs="tcp:42109:2"/>
+            <opener>
+               <salute>Mr. ROYSTON,</salute>
+            </opener>
+            <p>THE Sermon, concerning which You are deſirous of my Certificate, was here received from the Pulpit with ſo much applauſe and ſatisfaction, that I think it great pity it ſhould periſh and expire (as Sermons too often are wont to do) together with the Breath it was ſpoken in. It ſeems to me a proper Antidote (very fit for ſuch People as live in irreligious Air to carry about them) againſt the Atheiſts and Scep<g ref="char:EOLhyphen"/>ticks and <g ref="char:V">Ʋ</g>nbelievers of the Times. To ſome 'twill be uſeful as a Remedy; to others as a Preſervative; and (even without the help of Eloquence) has an aptitude in it ſelf of being profitable to All; at leaſt in the Hope and Opinion of</p>
+            <closer>
+               <signed>Your Affectionate Friend to ſerve You, <hi>THO. PIERCE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:42109:3"/>
+            <p>IMPRIMATUR,</p>
+            <closer>
+               <signed>GUIL. JANE.</signed>
+               <dateline>
+                  <date>Sept. 13. 1678.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:42109:3"/>
+            <head>GOD MANIFESTED by his WORKS, AND <hi>Iuſtified</hi> in his <hi>Dealings</hi> with <hi>Men.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Rom. 1.20.</hi>
+                  </bibl>
+                  <p>For the inviſible things of him from the Creation of the World are clearly ſeen, being underſtood by the things that are made, even his eternal power and God-head, ſo that they are without excuſe.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Apoſtle profeſſing his readineſs and zeal to Preach and propagate the Goſpel, <hi>v.</hi> 14, 15. gives his rea<g ref="char:EOLhyphen"/>ſon for ſuch his inclination, <hi>v.</hi> 16. <hi>for I am not aſhamed of the Goſpel of Chriſt: for it is the power of God unto Salvation both to Jews and Gentiles:</hi> and <hi>v.</hi> 17. tells us, that <hi>therein is the righteouſneſs of God revealed</hi> in juſtifying the
+<pb n="2" facs="tcp:42109:4"/> World by <hi>faith.</hi> To manifeſt the neceſſity of which method in <hi>juſtification,</hi> he proceeds to con<g ref="char:EOLhyphen"/>vict both the <hi>Gentiles,</hi> and alſo the <hi>Jews</hi> of being <hi>obnoxious to God's juſtice,</hi> and ſhews them conſe<g ref="char:EOLhyphen"/>quently the need they had of a <hi>righteouſneſs by im<g ref="char:EOLhyphen"/>putation.</hi>
+            </p>
+            <p>The <hi>Gentiles</hi> he deals with at preſent and con<g ref="char:EOLhyphen"/>vinceth them, that <hi>the wrath of God was moſt juſtly revealed from Heaven</hi> againſt their profaneneſs and impiety, inaſmuch as they had not wanted for competent means of <hi>knowledge,</hi> but had <hi>lived</hi> much beneath the advantages they had enjoyed. And though they had wanted that <hi>more ſure word of prophecy,</hi> the holy Scriptures, yet they had the <hi>Book of God's works</hi> before them, in which much of God might be read; and whereby God had left them <hi>without excuſe</hi> in their ſins.</p>
+            <p>In the words I have read unto you, we may obſerve a <hi>propoſition,</hi> and an <hi>inference.</hi>
+            </p>
+            <p>The propoſition, that <hi>the inviſible things of God ever ſince the Creation of the World, have been diſcover<g ref="char:EOLhyphen"/>able by the things that are made.</hi>
+            </p>
+            <p>The inference, that <hi>God hath left Mankind with<g ref="char:EOLhyphen"/>out excuſe, if they live and dye in their ſins.</hi>
+            </p>
+            <p>In the Propoſition are 3. Heads of Diſcourſe,</p>
+            <p>Firſt, What are the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, thoſe <hi>works of God,</hi> by which the inviſible things of God are diſ<g ref="char:EOLhyphen"/>coverable?</p>
+            <p n="2">
+               <pb n="3" facs="tcp:42109:4"/>(2.) What are thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>invi<g ref="char:EOLhyphen"/>ſible things of God</hi> that are diſcoverable by his works?</p>
+            <p n="3">(3.) Why theſe are called <hi>inviſible things?</hi>
+            </p>
+            <p>Firſt, For the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, thoſe <hi>works of God,</hi> from whence the inviſible things of him are diſ<g ref="char:EOLhyphen"/>coverable, they are of 3. ſorts: <hi>Creation,</hi> or giving a <hi>beginning</hi> to the World at firſt; <hi>Production,</hi> or pre<g ref="char:EOLhyphen"/>ſerving each Species by the <hi>propagation</hi> of indivi<g ref="char:EOLhyphen"/>duals: and <hi>Providence,</hi> or <hi>upholding, governing,</hi> and <hi>providing</hi> for each Creature in the Univerſe.</p>
+            <p>Firſt, The Work of <hi>Creation,</hi> or the giving a <hi>beginning</hi> to Heaven and Earth, and all Creatures therein, doth diſcover unto us the inviſible things of God: For.</p>
+            <p n="1">(1.) Natural reaſon argues, that <hi>none of theſe things could be eternal. One generation comes and ano<g ref="char:EOLhyphen"/>ther goes:</hi> and reaſon prompts us to follow theſe ſtreams of ſucceſſive generations, till we find the Spring-head of the <hi>firſt generation:</hi> for otherwiſe we muſt engage our ſelves to defend an <hi>infinity</hi> in the Series of Generations, which will involve us in this <hi>perplexity.</hi> I demand whether at this <hi>pre<g ref="char:EOLhyphen"/>ſent</hi> an infinite Series of Generations be already paſt? If you anſwer, yea: then I demand whe<g ref="char:EOLhyphen"/>ther in the days of our <hi>poſterity</hi> it will not be <hi>more</hi> than an infinite Series that will have paſſed? If
+<pb n="4" facs="tcp:42109:5"/> 
+               <hi>not,</hi> then a part is equal to the whole. If <hi>yea,</hi> then we have found a number <hi>greater than an infinite:</hi> both which are abſurd. If you ſay that at pre<g ref="char:EOLhyphen"/>ſent an infinite Series of generations are <hi>not yet paſt,</hi> but in proceſs of time they <hi>will become infinite,</hi> then it will follow that a finite number added to a finite will make an infinite, which is alſo abſurd. Reaſon therefore will force us to own a <hi>beginning of generations.</hi>
+            </p>
+            <p n="2">(2.) And it was impoſſible for the firſt gene<g ref="char:EOLhyphen"/>ration to <hi>make it ſelf,</hi> or be the <hi>author of its own be<g ref="char:EOLhyphen"/>ing;</hi> and therefore we muſt ſearch after ſome <hi>firſt cauſe</hi> of all things. Reaſon explodes it as incon<g ref="char:EOLhyphen"/>ſiſtent to hold the <hi>ſame thing</hi> to be the <hi>cauſe</hi> and the <hi>effect:</hi> for if ſo, we muſt hold this contradiction, that the ſame thing is <hi>in being</hi> and <hi>not in being</hi> at the <hi>ſame time. In being,</hi> for otherwiſe it could not <hi>work as a cauſe: not in being,</hi> for elſe it could not be <hi>pro<g ref="char:EOLhyphen"/>duced</hi> as an effect. A <hi>firſt cauſe</hi> of all things, or a <hi>Maker of the World</hi> muſt be therefore of neceſſity owned.</p>
+            <p n="3">(3.) Nor could any thing <hi>leſs than an infinite being</hi> give the firſt original to things, or produce <hi>ſomething out of nothing.</hi> To make great <hi>alterations</hi> in the ſame matter by introducing various forms <hi>ſucceſſively,</hi> falls within the power of Nature or Art: But to produce any thing out of <hi>meer non-entity,</hi>
+               <pb n="5" facs="tcp:42109:5"/> is to reconcile notions of ſuch infinite di<g ref="char:EOLhyphen"/>ſtance and diſproportion, as no leſs can do than an infinite Agent. Such an one therefore we muſt be forced to own in making things to ſub<g ref="char:EOLhyphen"/>ſiſt out of their <hi>original nothing.</hi>
+            </p>
+            <p n="4">(4.) He that duly ſurveys the <hi>vaſtneſs</hi> of this Fabrick of the <hi>Univerſe,</hi> muſt needs own an infi<g ref="char:EOLhyphen"/>nite power to be the Maker thereof. When we look upon a <hi>ſmall portion</hi> of the World, either through the obſcure glaſs of <hi>ignorance,</hi> or through the magnifying glaſs of <hi>intereſt</hi> and <hi>pride,</hi> we are apt to ſwell our Mole-hill into a Mountain: But if we compare our little Spot with the reſt of the habitable part of the World, how little is it! If the whole earthly Globe with the heavenly, how like a point it looks! And can we imagine any cauſe to have produced ſuch an effect, but ſuch as greatly tranſcends it, that is, an infinite being?</p>
+            <p n="5">(5.) The vaſt <hi>variety</hi> of particular Creatures that are parts of the Univerſe, argues the ſame. If we ſurvey the various ſorts of particular beings that ſtock the <hi>Earth,</hi> the <hi>Water,</hi> and the <hi>Air,</hi> beſide thoſe <hi>Heavenly Bodies</hi> that adorn the ſuperior Orbs, it will lead us to an infinite <hi>Intellect</hi> that contained thoſe <hi>Idea's,</hi> after which every individual was for<g ref="char:EOLhyphen"/>med, and to as infinite <hi>Power</hi> that extended it ſelf to ſuch variety of works at once.</p>
+            <p n="6">
+               <pb n="6" facs="tcp:42109:6"/>(6.) The <hi>uſefulneſs</hi> of all Creatures in ſome capacity or other doth argue, that no <hi>fortuitous jumbling of atoms</hi> did accidentally hit into matter thus formed; (as ſoon may we expect an heap of <hi>Stones</hi> to riſe up and rally themſelves into the form of a ſtately and uſeful <hi>Houſe,</hi> or a Bag-ful of <hi>Printing Stamps</hi> to ſhuffle themſelves into the order of words for the compoſition of a <hi>Book:</hi>) but that there was a Being infinite in <hi>wiſdom</hi> to <hi>contrive,</hi> in <hi>goodneſs</hi> to <hi>deſign</hi> the good of the Univerſe, and in <hi>power,</hi> ſo as not to be <hi>diſappointed</hi> in his deſign.</p>
+            <p n="7">(7.) The admirable <hi>nature</hi> and <hi>properties</hi> of ſe<g ref="char:EOLhyphen"/>veral Creatures leads us to an inviſible power that made them. When I conſider the <hi>Heavens</hi> and their various <hi>motions,</hi> the <hi>Sun</hi> and the <hi>Moon</hi> and other <hi>Stars,</hi> with their ſeveral <hi>influences;</hi> when I take a view of the myſterious properties of the <hi>Loadſtone,</hi> and many other particular Creatures, I am forced to conclude that an <hi>infinite being</hi> was the Author thereof.</p>
+            <p n="8">(8.) The excellent <hi>beauty</hi> and <hi>harmony</hi> of the whole <hi>Creation</hi> ſhews the ſame. The <hi>Earth</hi> de<g ref="char:EOLhyphen"/>ſigned to ſuſtain and nouriſh <hi>Vegetables,</hi> thoſe to afford ſuſtenance to <hi>Animals,</hi> all thoſe to be uſeful unto <hi>Man:</hi> The Earth to ſupply the Sky with <hi>vapours,</hi> and this to <hi>water</hi> the Earth and make it fruitful: All this diſcovers the <hi>inviſible things of God.</hi>
+            </p>
+            <pb n="7" facs="tcp:42109:6"/>
+            <p>Secondly, The work of <hi>Production</hi> tends to the ſame purpoſe. Nature hath denied to <hi>indi<g ref="char:EOLhyphen"/>viduals</hi> a <hi>perpetuity</hi> of continuance: To recom<g ref="char:EOLhyphen"/>pence this, it upholds the <hi>Species</hi> by a <hi>Succeſſion</hi> of thoſe individuals that fill up the room of the former: And if this be duly conſidered, we muſt confeſs that <hi>day unto day uttereth Speech,</hi> that theſe conſtant works diſcover the inviſible things of God. For,</p>
+            <p n="1">(1.) The <hi>Seminal Originals</hi> of all things that are produced, whether <hi>Vegetables,</hi> or thoſe things that are indued with <hi>Senſe,</hi> are ſo ſmall and diſ<g ref="char:EOLhyphen"/>proportionate to the things that ſpring from thence, that we muſt needs acknowledge that production differs nothing in wonderfulneſs from the work of Creation, but only that one is <hi>common</hi> and <hi>daily,</hi> the other was done but <hi>once:</hi> and this conſequently doth ſtrive with Creation which ſhall moſt painly ſhew us the inviſible things of God.</p>
+            <p n="2">(2.) The <hi>variety of forms</hi> that are daily intro<g ref="char:EOLhyphen"/>duced into the altered matter is very ſtrange to him that conſiders it. Of all the <hi>Faces</hi> in the World not any two ſo alike but they differ in ſome <hi>features:</hi> yea of all the <hi>Fruit</hi> or <hi>Leaves</hi> on a Tree, of all the <hi>Flowers</hi> in the Spring ſome <hi>diſſi<g ref="char:EOLhyphen"/>militude</hi> may be obſerved: which is not to be
+<pb n="8" facs="tcp:42109:7"/> aſcribed to the <hi>contingent jumbling of the parts of mat<g ref="char:EOLhyphen"/>ter</hi> amongſt themſelves, but muſt be acknow<g ref="char:EOLhyphen"/>ledged the work of him that hath hereby deter<g ref="char:EOLhyphen"/>mined to ſhew forth his <hi>multifarious wiſdom and power.</hi>
+            </p>
+            <p n="3">(3.) The <hi>wonderful properties</hi> of Creatures pro<g ref="char:EOLhyphen"/>duced, whether <hi>Plants, Minerals,</hi> &amp;c. which ren<g ref="char:EOLhyphen"/>ders them ſo uſeful to Man as <hi>Food</hi> or <hi>Phyſick,</hi> do ſhew that theſe things are not the product of any <hi>contingent motion,</hi> but are ordered by him that with infinite <hi>wiſdom</hi> doth deſign what is beſt, and brings to paſs what he hath deſigned.</p>
+            <p n="4">(4.) The <hi>Body of Man</hi> conſidered in its vari<g ref="char:EOLhyphen"/>ous <hi>parts</hi> and <hi>proportions,</hi> the <hi>fitneſs</hi> of each Organ to ſerve the end for which it was made, the won<g ref="char:EOLhyphen"/>derful compliance thereof with the will in <hi>ſponta<g ref="char:EOLhyphen"/>neous motion,</hi> the various Utenſils and Veſſels that ſerve to the firſt, ſecond, and third <hi>concoction;</hi> this I ſay may force eſpecially perſons of reaſon and judgment to confeſs that we are <hi>fearfully and wonderfully made,</hi> and that <hi>our ſubſtance</hi> and contex<g ref="char:EOLhyphen"/>ture <hi>was not hid from</hi> an all-ſeeing eye, even when we were <hi>made in ſecret,</hi> and owed nothing of our ſelves to the <hi>contrivance</hi> of him that <hi>begat,</hi> or of h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that <hi>bare</hi> us.</p>
+            <p n="5">(5.) Eſpecially the <hi>Soul of Man</hi> conſidered in its excellent <hi>nature</hi> as a Spirit, in its admirable <hi>fa<g ref="char:EOLhyphen"/>culties</hi>
+               <pb n="9" facs="tcp:42109:7"/> and <hi>operations,</hi> an <hi>underſtanding</hi> ſo large and capacious, a <hi>memory</hi> ſo vaſt and tenacious, a <hi>will</hi> ſo free and unforcible, a <hi>conſcience</hi> ſo apprehenſive and authoritative, <hi>affections</hi> ſo warm and active; this doth lead us to own a cauſe of an <hi>higher na<g ref="char:EOLhyphen"/>ture</hi> that made it, and that for ſome great and <hi>worthy deſign.</hi> Here therefore the inviſible things of God diſcover themſelves.</p>
+            <p>Thirdly, That work of <hi>Providence</hi> whereby the World and all Creatures are continually <hi>up<g ref="char:EOLhyphen"/>held, provided for,</hi> and <hi>governed,</hi> doth lead us to a Deity.</p>
+            <p n="1">(1.) That the World thus long <hi>ſubſiſts</hi> is a fruit of the great power of God. The Uni<g ref="char:EOLhyphen"/>verſe was not ſo made at firſt as <hi>automatous En<g ref="char:EOLhyphen"/>gines</hi> are made by the Artificer who leaves them to move by the motion he hath <hi>begun</hi> in them. But the ſame <hi>powerful word</hi> that called forth all things into. Being at firſt, doth ſtill command them to continue to exiſt. If we look into our own <hi>Bodies,</hi> the keeping of the <hi>contrary qualities</hi> in due temper, the upholding the motions of the <hi>Blood</hi> and <hi>Spirits,</hi> the maintaining of the ſeveral <hi>Veſſels</hi> in us that are paſſages of nature, do ſuffi<g ref="char:EOLhyphen"/>ciently argue that we are not forgotten by the ſame power that remembred to give us a Being at firſt.</p>
+            <p n="2">
+               <pb n="10" facs="tcp:42109:8"/>(2.) That every Creature is obſequious to the <hi>laws of nature,</hi> and ſtill ready to comply with the deſign of its Creation, that the <hi>Heavenly Bo<g ref="char:EOLhyphen"/>dies</hi> continue their <hi>motion,</hi> that the <hi>Earth</hi> fails not of <hi>vegetation;</hi> yea, that every thing obſerves the time and ſeaſon appointed for it, that the four Seaſons of the Year do never change hands, that <hi>the Stork, and the Crane, and the Swallow know their appointed times,</hi> and <hi>the Sun knows his going down,</hi> this ſhews that there is an over-ruling power that takes care of that World which was his own workmanſhip.</p>
+            <p n="3">(3.) That every Creature is <hi>provided for</hi> ac<g ref="char:EOLhyphen"/>cording to its nature, from the King that ſits upon the Throne to the Captive that lies in the Dungeon, yea to the very inſects that buzze in the Air; this argues that we are not left <hi>Orphans</hi> upon Earth, but there is a great Father of this vaſt <hi>Family,</hi> who doth with infinite wiſdom and providence take care that no part thereof ſhall want a comfortable <hi>ſuſtenance.</hi>
+            </p>
+            <p n="4">(4.) The upholding of <hi>Government in Societies,</hi> in Kingdoms and Families, whereby the good of Mankind is provided for; yea that all the Sons of <hi>Belial and confuſion,</hi> have never been able to break in pieces this Ordinance of God, this ar<g ref="char:EOLhyphen"/>gues that the World ſubſiſts not at all adventures.</p>
+            <p n="5">
+               <pb n="11" facs="tcp:42109:8"/>(5.) The maintaining of <hi>Religion,</hi> and uphold<g ref="char:EOLhyphen"/>ing a <hi>Church</hi> upon Earth, that <hi>the gates of hell,</hi> the power and policy of the Devil and his Inſtru<g ref="char:EOLhyphen"/>ments have never been able to prevail againſt this that is <hi>founded upon a Rock,</hi> that this <hi>buſh</hi> hath ſo often <hi>burned,</hi> but is not yet <hi>conſumed;</hi> yea, that this <hi>Stone cut out of the Mountain without hands hath broken in pieces the Gold, the Silver, the Braſs, the Iron, and the Clay,</hi> that it hath <hi>grown into a Mountain</hi> and <hi>filled the Earth,</hi> this argues an inviſible and irreſiſtible po<g ref="char:EOLhyphen"/>wer, by which the World and all occurrents are ordered.</p>
+            <p>We have conſidered thoſe things that are made, by which that which may be known of God, is manifeſt. Let us,</p>
+            <p>Secondly, Conſider what are thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>inviſible things</hi> of him that are thereby ſeen. Here the word <hi>inviſible</hi> ſeems to prompt me to preſent you with a <hi>Curtain</hi> inſtead of a <hi>Pi<g ref="char:EOLhyphen"/>cture:</hi> but yet when the Apoſtle tells us that theſe inviſible things <hi>are ſeen,</hi> thoſe things that <hi>Senſe</hi> cannot, <hi>Reaſon</hi> and <hi>Faith</hi> do diſcover, we may at leaſt preſume to look on the back parts hereof.</p>
+            <p n="1">(1.) Then, the neceſſity of <hi>owning a Deity,</hi> an in<g ref="char:EOLhyphen"/>viſible and almighty power, which gave <hi>beginning</hi> to the World at firſt, which daily <hi>produceth</hi> all things to uphold their Species, which <hi>rules</hi> and
+<pb n="12" facs="tcp:42109:9"/> governs all things, this hath been ſo manifeſt by what is already ſpoken, that I ſhall need only to point with my Finger to it, as a Poſt alrea<g ref="char:EOLhyphen"/>dy taken.</p>
+            <p n="2">(2.) From hence alſo we diſcover that the Deity is perfectly free from all the <hi>defects</hi> and <hi>imperfections</hi> that are in any of the Creatures. For he that made both the Univerſe in general and every individual in particular in ſuch excellent order and perfection, cannot be thought to be either <hi>ignorant, weak,</hi> or <hi>ill minded;</hi> much leſs like the Idols of the Heathens that had <hi>eyes but ſaw not, ears but heard not, hands but could not help themſelves, or their worſhippers.</hi>
+            </p>
+            <p n="3">(3.) And further, that on the contrary the Deity is a Being <hi>infinite</hi> in all <hi>excellencies</hi> and <hi>per<g ref="char:EOLhyphen"/>fections;</hi> for if every cauſe be in ſome ſort more <hi>noble</hi> than the effect produced by it, then the Ma<g ref="char:EOLhyphen"/>ker of all things muſt not only be more noble and excellent than any <hi>particular</hi> Creature, but muſt comprehend greater perfections than all the Creatures <hi>joyntly</hi> can lay claim to.</p>
+            <p n="4">(4.) That we are bound to own our <hi>dependance</hi> upon his <hi>inviſible power:</hi> though we are far remo<g ref="char:EOLhyphen"/>ved from the firſt generation that ſprung out of the <hi>Clay,</hi> yet are we ſtill to remember him that gave the original to our Species: though we re<g ref="char:EOLhyphen"/>member
+<pb n="13" facs="tcp:42109:9"/> nothing of our forming in the Womb, yet are we to own that Power that formed us there: though we ſee not that Hand that up<g ref="char:EOLhyphen"/>holds and provides for us, yet are we to own, that <hi>in him we live, and move, and have our Being.</hi> For this is a reaſonable acknowledgment from them that are endued with underſtanding to conſider cauſes and effects, and whoſe reaſon is convinced of theſe things by thoſe that are made.</p>
+            <p n="5">(5.) That conſequently we ought to <hi>ſerve</hi> and <hi>glorifie</hi> God according to the capacity he hath ſet us in. For if a moſt wiſe Agent make nothing in vain, and if all other things do <hi>continue to this day according to God's ordinance, becauſe they are his Crea<g ref="char:EOLhyphen"/>tures,</hi> It muſt needs then be fit that reaſonable Creatures do ſerve God in a thankful acknow<g ref="char:EOLhyphen"/>ledgment of his mercies, and endeavouring to live in conformity to his Laws.</p>
+            <p n="6">(6.) That we muſt be <hi>accountable</hi> to him for our behaviour in this World. His giving us <hi>Rea<g ref="char:EOLhyphen"/>ſon</hi> doth make us <hi>capable</hi> of obſerving <hi>Laws,</hi> and his infinite <hi>wiſdom</hi> will prompt him to look after the <hi>obſervation</hi> of theſe Laws, and to call us to a <hi>reckoning</hi> how we have diſcharged the duty we owe to him: We muſt therefore conclude that <hi>he hath appointed a day wherein he will judge the World in righteouſneſs:</hi> and that <hi>for all theſe things God will bring us into judgment.</hi>
+            </p>
+            <pb n="14" facs="tcp:42109:10"/>
+            <p>Thirdly, Why are theſe called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>in<g ref="char:EOLhyphen"/>viſible things of God?</hi>
+            </p>
+            <p n="1">(1.) Becauſe God being a <hi>Spirit</hi> is <hi>inviſible</hi> to our <hi>bodily eyes.</hi> Nor doth this give any advantage to an Atheiſt either to <hi>queſtion</hi> his Being, or to <hi>de<g ref="char:EOLhyphen"/>ride</hi> him as imperfect, becauſe inviſible. We are as certain, or rather more, of that which is <hi>demon<g ref="char:EOLhyphen"/>ſtrated</hi> to our <hi>Reaſon,</hi> as of that which we <hi>ſee</hi> with our <hi>eyes.</hi> Nor are Spirits, or the objects of our other Senſes <hi>leſs perfect</hi> Beings, becauſe not diſ<g ref="char:EOLhyphen"/>coverable by the <hi>eye.</hi> Yea the Deity is <hi>therefore</hi> perfect, and <hi>like himſelf,</hi> becauſe <hi>tranſcending</hi> the knowledge of <hi>Senſe.</hi>
+            </p>
+            <p n="2">(2.) Becauſe the <hi>fall of Adam</hi> hath obſcured our knowledge, eſpecially of the moſt <hi>ſublime</hi> Objects. <hi>Scarcely and with much difficulty do we behold</hi> and take cognizance of the <hi>things under our Feet,</hi> becauſe <hi>the corruptible body preſſeth down the Soul:</hi> but the nature and counſels of God, who can know, except himſelf give wiſdom?</p>
+            <p n="3">(3.) The <hi>Heathen</hi> have <hi>groped,</hi> as in the dark, in ſeeking after the knowledge of theſe things: they have become <hi>vain in their imaginations</hi> of the Deity, and <hi>their fooliſh heart was darkned,</hi> ſo that <hi>to them</hi> theſe things were in a <hi>great meaſure</hi> inviſible, though not altogether.</p>
+            <p n="4">(4.) What <hi>diſcovery</hi> we have of theſe things
+<pb n="15" facs="tcp:42109:10"/> comes from <hi>God himſelf,</hi> teaching us to know him either by the <hi>light of Nature,</hi> as in the <hi>Gentiles,</hi> or by the light of his <hi>Word</hi> and <hi>Spirit</hi> as in us <hi>Chriſti<g ref="char:EOLhyphen"/>ans.</hi> In <hi>themſelves</hi> therefore, and to our <hi>corrupt</hi> nature theſe are <hi>inviſible</hi> things.</p>
+            <p>How <hi>wonderful</hi> therefore is the <hi>nature</hi> of that God that hath <hi>ſet Man upon Earth to ſeek after him<g ref="char:EOLhyphen"/>ſelf!</hi> the ſecrets of Nature either through <hi>modeſty</hi> or <hi>ſurlineſs</hi> ſeem unwilling to diſcover themſelves unto us; how much more unſearchable are the inviſible things of God! How neceſſary there<g ref="char:EOLhyphen"/>fore is the <hi>ſtudy</hi> of God's Works! <hi>The works of the Lord are great, ſought out of all them that have pleaſure therein:</hi> and though <hi>the bruitiſh man knoweth not, nei<g ref="char:EOLhyphen"/>ther will the fool conſider,</hi> yet <hi>whoſo is wiſe will obſerve theſe things.</hi> How <hi>uſeful</hi> then is the obſervation of the <hi>Lord's day!</hi> in which, though we have a <hi>great<g ref="char:EOLhyphen"/>er</hi> mercy to celebrate than the work of <hi>Creation,</hi> yet that and the other works of God ought <hi>then</hi> eſpe<g ref="char:EOLhyphen"/>cially to be conſidered by us. How <hi>merciful</hi> is God that hath given us ſuch <hi>advantages</hi> to know him! that hath diſtinguiſhed us from other Ani<g ref="char:EOLhyphen"/>mals by giving us <hi>Reaſon;</hi> yea hath advanced us above the <hi>Heathen,</hi> by giving us that <hi>Divine revela<g ref="char:EOLhyphen"/>tion</hi> that affords us more clear diſcoveries of God than other Nations have been bleſſed with. How great <hi>engagements</hi> hath God hereby laid upon us
+<pb n="16" facs="tcp:42109:11"/> to entertain juſt and worthy thoughts of Him, to expreſs theſe by an <hi>aweful love</hi> to himſelf, and a religious <hi>obedience</hi> to his commands! And finally how <hi>inexcuſable</hi> ſhall we be, if we <hi>neglect</hi> ſo many advantages, and <hi>ſlight</hi> ſo many engagements which God hath laid upon us by the diſcoveries he hath made of Himſelf, and his will unto us: Which leads me to,</p>
+            <p>The Second <hi>General</hi> in the Text, The <hi>Inference</hi> from the precedent Propoſition, that <hi>God hath left Mankind without Apologie or excuſe in their ſins.</hi>
+            </p>
+            <p>As there is nothing more <hi>uſual</hi> with Men, when they have followed the perverſe ſwing of their own inclinations in doing evil, than to <hi>ſeek excu<g ref="char:EOLhyphen"/>ſes</hi> to evade the terrors of their own Conſcience, and the convictions of the Word of God; ſo I know nothing more <hi>neceſſary</hi> in them that make it their work to <hi>win Souls,</hi> than to take all advanta<g ref="char:EOLhyphen"/>ges to <hi>drive</hi> ſinners out of their <hi>ſtrong holds,</hi> and to ſtrip them of thoſe <hi>Fig-leaves,</hi> with which they ſeek to cover the deformity of their nakedneſs.</p>
+            <p>Now if a Man that reſolves to live and dye in ſin, will <hi>coyn</hi> an excuſe for his <hi>ill living,</hi> he muſt ei<g ref="char:EOLhyphen"/>ther plead that he hath lived ſo ill for want of <hi>means of knowledge</hi> to ſhew him better courſes: Or that though he knew better things, he had not
+<pb n="17" facs="tcp:42109:11"/> 
+               <hi>encouragement</hi> enough ſet before him to <hi>preponderate</hi> the <hi>pleaſures</hi> and <hi>profits</hi> of ſin: Or that though he knew ſomething of that alſo, yet he was ſhut up under ſuch <hi>ſervility of will,</hi> that he could do no more than a <hi>dead man,</hi> in hearkning to God's voice, and running the way of his Commandments: Or that though he had a <hi>little ſtrength</hi> and <hi>freedom</hi> in his will, yet where this fell ſhort he was <hi>left by God</hi> to himſelf, and had no <hi>offer of grace</hi> to aſſiſt him in doing his duty: Or laſtly, that God was an <hi>auſtere Maſter,</hi> and propoſed unto him <hi>unpracticable com<g ref="char:EOLhyphen"/>mands,</hi> and required of him things <hi>ſimply impoſſible,</hi> and therefore it was in vain to attempt to pleaſe this God. If <hi>any</hi> of theſe Pleas would hold good, a ſinner might have ſomewhat to ſay for himſelf; but if <hi>all</hi> of them fail him, as I ſhall now endeavour to ſhew, then is he left <hi>without Apologie.</hi>
+            </p>
+            <p>Firſt then, I ſay that no Man ſhall be able to plead for himſelf <hi>want of knowledge,</hi> or that he took ſuch bad courſes becauſe he knew no better. For,</p>
+            <p n="1">(1.) God generally gives Men <hi>capacities</hi> to un<g ref="char:EOLhyphen"/>derſtand the <hi>neceſſary</hi> points of our <hi>faith.</hi> Though all Men have not quickneſs of parts to give a rati<g ref="char:EOLhyphen"/>onal account of the niceties of S. <hi>Athanaſius</hi> his Creed, yet if they be not born natural <hi>fools</hi> or <hi>ide<g ref="char:EOLhyphen"/>ots,</hi> they are capable of that knowledge that will make them <hi>wiſe unto Salvation.</hi>
+            </p>
+            <p n="2">
+               <pb n="18" facs="tcp:42109:12"/>(2.) Of them that are of <hi>mean capacities</hi> natu<g ref="char:EOLhyphen"/>rally, God doth not expect the <hi>ſame</hi> attainments as to <hi>clearneſs</hi> of knowledge, as he doth from them whom he better <hi>qualified</hi> for it. If he that recei<g ref="char:EOLhyphen"/>ved but <hi>one talent</hi> had made proportionable advan<g ref="char:EOLhyphen"/>tage of it, he would not have been condemned as an <hi>evil and ſlothful ſervant,</hi> although he did not an<g ref="char:EOLhyphen"/>ſwer the profit that was made by him to whom <hi>five</hi> were committed: In this caſe that holds good, <hi>If there be firſt a willing mind, it is accepted, according to what a man hath, and not according to what he hath not.</hi>
+            </p>
+            <p n="3">(3.) God hath not been wanting to the World in bleſſing it with <hi>ſufficient means of knowledge.</hi> In the beginning Men were moſtly left to that <hi>Law</hi> of God written upon their <hi>hearts,</hi> which was not <hi>ſo much</hi> obliterated as it hath been <hi>ſince</hi> through the <hi>abounding</hi> of iniquity. To this were ſometimes added <hi>immediate</hi> diſcoveries of God's will from Heaven upon <hi>ſpecial emergencies.</hi> After<g ref="char:EOLhyphen"/>ward they had <hi>Moſes</hi> and the <hi>Prophets,</hi> to whom the <hi>Church</hi> of God was to <hi>hearken.</hi> In theſe <hi>laſt days God hath ſpoken unto us by his own Son,</hi> the great <hi>Prophet</hi> of the Church. And now in the <hi>evening</hi> of the World, when the <hi>ſhadows</hi> are extended, God hath bleſſed us with more <hi>eminent</hi> gifts be<g ref="char:EOLhyphen"/>ſtowed upon Men, to relieve the Church againſt the ſubtil attempts of <hi>Hereticks,</hi> and the open af<g ref="char:EOLhyphen"/>fronts
+<pb n="19" facs="tcp:42109:12"/> of <hi>Atheiſts.</hi> So that God is not an auſtere Maſter, <hi>reaping where he ſowed not.</hi>
+            </p>
+            <p n="4">(4.) I believe that God <hi>accepts</hi> Men of <hi>diſad<g ref="char:EOLhyphen"/>vantagious education,</hi> according to what he hath <hi>gi<g ref="char:EOLhyphen"/>ven</hi> them. As he hath not given all Men the ad<g ref="char:EOLhyphen"/>vantages that might make them <hi>able</hi> Divines, or <hi>great</hi> Scholars; ſo he doth not expect that <hi>diſtinct</hi> and <hi>unerring</hi> knowledge of the <hi>criticiſms</hi> of our faith in unlearned Mechanicks, as in thoſe that are bred up in the <hi>Schools of the Prophets.</hi>
+            </p>
+            <p>Secondly, Nor ſhall any Man be able to plead that he continued to be bad, becauſe he wanted <hi>encouragement</hi> to make him <hi>better:</hi> that he found nothing ſufficient to <hi>deter</hi> him from wickedneſs, or to <hi>invite</hi> him to a good life. For,</p>
+            <p n="1">(1.) The <hi>joys of Heaven</hi> do certainly outweigh the <hi>pleaſures</hi> and <hi>profits</hi> of ſin: if the <hi>Soul</hi> be no<g ref="char:EOLhyphen"/>bler than the <hi>Body,</hi> if the enjoyment of <hi>God</hi> be more comprehenſive than <hi>Creature</hi>-comforts, if <hi>durable</hi> riches and righteouſneſs be to be prefer'd before <hi>uncertain</hi> riches that take to themſelves <hi>wings,</hi> then is there no diſpute in the caſe.</p>
+            <p n="2">(2.) The <hi>torments of Hell</hi> exceed the <hi>trouble</hi> that either <hi>is,</hi> or is <hi>fancied</hi> in a <hi>religious</hi> courſe of life: If a <hi>worm</hi> corroding the <hi>conſcience,</hi> and the <hi>ſmoke</hi> of torment aſcending for <hi>ever and ever,</hi> exceed not the pains of <hi>watching</hi> and <hi>praying,</hi> and together
+<pb n="20" facs="tcp:42109:13"/> with this, all the <hi>reproaches</hi> of Chriſt, and <hi>troubles</hi> that remain us in the wilderneſs of this world; then let Men chooſe the <hi>cutting</hi> off a <hi>principal</hi> mem<g ref="char:EOLhyphen"/>ber of the Body, rather than a <hi>prick</hi> with a <hi>Pin.</hi>
+            </p>
+            <p n="3">(3.) God hath ſet before us Heaven as attain<g ref="char:EOLhyphen"/>able, and Hell as avoidable upon <hi>fair and feazible terms:</hi> even the terms of the Covenant of Grace, <hi>Repentance, Faith, and new Obedience:</hi> and he that will not on theſe terms cloſe with God, <hi>How ſhall he eſcape if he neglect ſo great Salvation?</hi>
+            </p>
+            <p n="4">(4.) He hath laid <hi>ſufficient grounds</hi> whereupon to build a <hi>firm belief</hi> of theſe joys and torments: If the conſtant <hi>teſtimony</hi> of the <hi>Word</hi> of God, if the univerſal <hi>conſent</hi> of all <hi>Nations,</hi> if the <hi>witneſs</hi> of Mens <hi>conſciences</hi> in the caſe, if <hi>reaſons</hi> drawn from the con<g ref="char:EOLhyphen"/>ſideration of the <hi>Divine attributes</hi> will prevail with our judgments, then can no Man plead that he therefore <hi>ſlighted</hi> the offers of the Goſpel, becauſe he could ſee no <hi>reaſon</hi> to believe the <hi>reality</hi> thereof.</p>
+            <p>Thirdly, Nor can any Man plead that though he knew his duty, and had encouragement ſet before him to do it, yet he was ſhut up under the <hi>impotency</hi> and <hi>ſervility</hi> of his <hi>will,</hi> ſo that all good exhortations were but like commanding a <hi>dead</hi> Man to ariſe and walk.</p>
+            <p n="1">(1.) It is plain that God endued Man with <hi>perfect</hi> freedom of will in his firſt <hi>Creation;</hi> this be<g ref="char:EOLhyphen"/>ing
+<pb n="21" facs="tcp:42109:13"/> a neceſſary attendant upon a <hi>reaſonable</hi> agent, that he ſhould be <hi>ſpontaneous</hi> in his choice &amp; actions.</p>
+            <p n="2">(2.) We <hi>ſtill</hi> find <hi>freedom</hi> in our will as to <hi>natural actions.</hi> What Man will pretend that he cannot go to Bed or riſe, walk or ſit ſtill, go abroad or abide at home at his own pleaſure, and that he hath any conſtraint laid upon him to encline him one way or the other in ſuch things?</p>
+            <p n="3">(3.) Nor can <hi>temptations force</hi> the will of Man to ſin. The Devil may enveagle us by his <hi>ſuggeſtions,</hi> wicked Men may <hi>betray</hi> us by their ill <hi>examples</hi> and <hi>advice:</hi> but if when the Prince of the World com<g ref="char:EOLhyphen"/>eth, he found <hi>nothing in us</hi> of a complying principle, he would ſpend all his <hi>fiery darts</hi> in vain. He may <hi>tempt,</hi> but he cannot <hi>force</hi> us.</p>
+            <p n="4">(4.) And we reaſonably believe what <hi>impotency</hi> is in the will to chooſe good and refuſe evil, to pro<g ref="char:EOLhyphen"/>ceed from <hi>cuſtom</hi> and <hi>habit</hi> in ſin, and not from any <hi>reſtraint</hi> laid upon the will by God. If a ſluggard turn upon his Bed, as a <hi>Door upon his Hinges,</hi> and ſay he <hi>cannot</hi> riſe and work. If a common ſwearer, or drunkard, or unclean perſon will tell us, that they <hi>cannot</hi> forbear ſuch practice, we may anſwer them, <hi>Non poſſe praetenditur cùm non velle in cauſâ eſt.</hi>
+            </p>
+            <p n="5">(5.) When the moſt <hi>wiſe</hi> and <hi>juſt</hi> God ſets be<g ref="char:EOLhyphen"/>fore us his <hi>commands</hi> backt with <hi>promiſes</hi> and <hi>threat<g ref="char:EOLhyphen"/>nings,</hi> when he ſets before us <hi>fire and water, life</hi> and
+<pb n="22" facs="tcp:42109:14"/> 
+               <hi>death,</hi> and bids us <hi>chooſe</hi> the one, and <hi>refuſe</hi> the other: when he <hi>exhorts</hi> us to believe, and tells us we ſhall be <hi>damned</hi> if we hearken not; doth not this argue that God deals with Man as a <hi>reaſonable</hi> Creature, and a <hi>free agent,</hi> capable of <hi>chooſing</hi> and <hi>acting</hi> freely?</p>
+            <p n="6">(6.) And when God doth by his grace <hi>draw</hi> a Man unto himſelf from the error of his ways, we believe that he doth not offer any <hi>force</hi> unto the <hi>will,</hi> and make him ceaſe to do evil, and learn to do well <hi>againſt</hi> his will; but that he begins with <hi>convincing</hi> a Man's <hi>judgment</hi> of the error and danger of his for<g ref="char:EOLhyphen"/>mer courſes, alluring him with the beauty and ne<g ref="char:EOLhyphen"/>ceſſity of holineſs, and then proceeds ſweetly to <hi>encline</hi> the <hi>will</hi> to follow the dictates of the under<g ref="char:EOLhyphen"/>ſtanding ſo enlightned: ſo that ſtill we are a <hi>wil<g ref="char:EOLhyphen"/>ling</hi> People, whether we proceed in the ways of <hi>Ruine</hi> or of <hi>Happineſs.</hi>
+            </p>
+            <p n="7">(7.) Let any Man <hi>try</hi> whether in reference to <hi>particular</hi> acts of ſin it be <hi>ſimply</hi> impoſſible for him to refrain for a time, yea when meaner conſidera<g ref="char:EOLhyphen"/>tions than thoſe of Heaven and Hell are the mo<g ref="char:EOLhyphen"/>tive: If the preſence of a <hi>grave</hi> and <hi>good</hi> man will make men take truce with their luſts for a time, if a <hi>wager,</hi> a <hi>friend,</hi> a <hi>bargain</hi> will make a man to <hi>com<g ref="char:EOLhyphen"/>pound</hi> with his appetite, and to be <hi>ſober</hi> for a time, ſhall not the weightier motives of the Word of God be as prevalent with us?</p>
+            <p n="8">
+               <pb n="23" facs="tcp:42109:14"/>(8.) Let us <hi>up and be doing, and the Lord will be with us;</hi> we therefore know not how much is in the po<g ref="char:EOLhyphen"/>wer of <hi>humble</hi> and <hi>ſerious reſolutions,</hi> becauſe one of theſe qualifications is moſtly wanting in our reſo<g ref="char:EOLhyphen"/>lutions: <hi>The Sword of the Lord and of Gideon</hi> too muſt be drawn; and then who are thoſe Hoſts of <hi>Midi<g ref="char:EOLhyphen"/>an</hi> that ſhall oppoſe us in the ways of God?</p>
+            <p n="9">(9.) Therefore the <hi>ſervility</hi> of Man's will through the fall, will <hi>excuſe</hi> no Man before God's Tribunal, that hath lived and died in ſin. No man ſhall be able to plead, Lord I was <hi>convinced</hi> of the odiouſ<g ref="char:EOLhyphen"/>neſs of diſhoneſty, but yet my will <hi>forced</hi> me to be a knave; I was convinced of the deſirableneſs of Heaven, and I <hi>did</hi> what I <hi>could</hi> to come thither, but all in <hi>vain,</hi> for I was ſubject to <hi>ſervility</hi> and <hi>impotency</hi> of will, I did in vain <hi>ſtrive againſt the ſtream:</hi> But this will be the more clear by what follows.</p>
+            <p>Fourthly, No man can plead that he hath want<g ref="char:EOLhyphen"/>ed the <hi>offer of aſſiſtance</hi> from the <hi>Spirit of God</hi> to <hi>en<g ref="char:EOLhyphen"/>able</hi> him to pleaſe God, and to <hi>bring</hi> him to Heaven. That we are not ſhut up under a <hi>neceſſity of ſinning,</hi> I believe as before; and yet that we are not <hi>ſuffi<g ref="char:EOLhyphen"/>cient of our ſelves to do that which is good,</hi> I alſo believe: but whether God be wanting to help our infirmi<g ref="char:EOLhyphen"/>ties is the Queſtion? To which the anſwer is, that ſpeaking of <hi>our ſelves</hi> that live under the <hi>means of grace</hi> (for, <hi>what have we to do to judge them that are with<g ref="char:EOLhyphen"/>out?</hi>)
+<pb n="24" facs="tcp:42109:15"/> no Man ſhall be able to plead that God hath been wanting to him to offer him <hi>aſſiſtance</hi> to en<g ref="char:EOLhyphen"/>able him to <hi>pleaſe</hi> him, and to <hi>walk</hi> in his ways.</p>
+            <p n="1">(1.) I believe that together with the <hi>ordinances</hi> of God goes along his <hi>holy Spirit,</hi> offering <hi>grace</hi> un<g ref="char:EOLhyphen"/>to us, and <hi>ſoliciting</hi> us to accept thereof: that the promiſe hereof was <hi>ſealed</hi> unto us in our <hi>baptiſm,</hi> and the accompliſhment of this promiſe we find daily in attending upon other Ordinances in our <hi>adult</hi> eſtate: and that for this reaſon the Apoſtle di<g ref="char:EOLhyphen"/>ſtinguiſheth the Goſpel from the Law, in calling it <hi>the miniſtration of life, and a quickning ſpirit,</hi> 2 Cor. 3.6, 8.</p>
+            <p n="2">(2.) We may alſo find at <hi>other times</hi> the ſpirit of God <hi>moving upon the waters</hi> of our Souls, in our <hi>ſecret receſſes.</hi> When we <hi>commune with our own heart and are ſtill; convincing</hi> us of the error of our ways, <hi>perſwade<g ref="char:EOLhyphen"/>ing</hi> and <hi>moving</hi> us to exchange them for better: Hereby it both <hi>prepares</hi> us to receive benefit by the Word preached, and alſo <hi>ſeconds</hi> what we have heard, that it may become effectual:</p>
+            <p n="3">(3.) If at any time this ſpirit <hi>withdraw</hi> it ſelf and <hi>ſuſpend</hi> its motions, it is then when we have <hi>reſiſted</hi> its operations in us, and thereby <hi>grieved</hi> it by neg<g ref="char:EOLhyphen"/>lecting our own duty and intereſt. Even <hi>good</hi> men find theſe withdrawings after the <hi>groſſer</hi> and more <hi>wilful</hi> ſorts of ſins, as <hi>David</hi> when he prays for <hi>reſto<g ref="char:EOLhyphen"/>ring</hi> theſe eſtabliſhments of the <hi>free ſpirit:</hi> and from
+<pb n="25" facs="tcp:42109:15"/> 
+               <hi>wicked</hi> men he <hi>wholly</hi> and <hi>finally</hi> departs, when they have <hi>obſtinately</hi> refuſed to accept of his counſel, and then he <hi>leaves them to their own hearts luſts.</hi>
+            </p>
+            <p n="4">(4.) But he mercifully continues his <hi>ordinances</hi> among us, that if it be not our own fault, we may not want the workings of his Spirit. He hath pro<g ref="char:EOLhyphen"/>miſed to be with his Ordinances, and the diſpenſa<g ref="char:EOLhyphen"/>tion and diſpenſers thereof to the <hi>end of the World:</hi> and his continuing theſe amongſt us, doth ſhew that he <hi>ſtands at the door and knocks.</hi>
+            </p>
+            <p n="5">(5.) And he hath promiſed that he will <hi>never fail us nor forſake us.</hi> I believe God never caſt off that man that had not firſt <hi>wilfully</hi> and <hi>obſtinately</hi> caſt off him: nor that the <hi>frailties</hi> of the fleſh de<g ref="char:EOLhyphen"/>prive us of his <hi>comforting</hi> and <hi>quickning</hi> workings, but he will ſtill be ready to ſtand by us and ſupport us, and if we neglect our duty, it ſhall not be for want of help offered us by God's Spirit to do it.</p>
+            <p>Fifthly, Nor ſhall any man be able to plead that God propoſed unto him <hi>commands</hi> that were <hi>ſimply unpracticable,</hi> or propoſed ſalvation unto him upon terms to which it was <hi>impoſſible</hi> for him to come up.</p>
+            <p n="1">(1.) Indeed 'tis true God propoſeth unto us ſuch <hi>Precepts</hi> in his Law and Goſpel as are very <hi>exact</hi> and <hi>perfect:</hi> it being inconſiſtent with the ab<g ref="char:EOLhyphen"/>ſolute <hi>perfection</hi> of God's holineſs to propoſe unto us any Law, but that which is like himſelf: and the
+<pb n="26" facs="tcp:42109:16"/> exactneſs of the Law at once <hi>upbraids</hi> us with our defects, and thereby keeps us <hi>humble,</hi> and alſo <hi>ſtirs us up</hi> to labour to be <hi>perfect, even as our heavenly Fa<g ref="char:EOLhyphen"/>ther is perfect.</hi> Thus the faireſt <hi>Copy</hi> is beſt to write after, though a Learner cannot expect to come up to a <hi>perfect</hi> imitation thereof.</p>
+            <p n="2">(2.) But 'tis as true that we are free from the Law, as a <hi>covenant of works:</hi> ſo that we are no more to expect <hi>life</hi> and happineſs, upon condition of <hi>un<g ref="char:EOLhyphen"/>erring obedience,</hi> or to fear <hi>death</hi> upon the <hi>leaſt</hi> default, in continuing in all things that are written in the Law to do them: from the <hi>curſe</hi> of the Law <hi>Chriſt</hi> hath delivered us by being made <hi>a curſe for us,</hi> and from its <hi>ſevere exaction</hi> by making a new and <hi>graci<g ref="char:EOLhyphen"/>ous covenant</hi> with us.</p>
+            <p n="3">(3.) So that now the <hi>great</hi> thing God requires is <hi>ſincere deſires</hi> and <hi>hearty endeavours</hi> to pleaſe him, ſuch as reſult from true <hi>love</hi> and <hi>gratitude:</hi> that when we do <hi>amiſs</hi> and fall ſhort of our duty, we be truly <hi>penitent</hi> for it, and fly to the <hi>mercy</hi> of God, and the <hi>merits</hi> of Jeſus Chriſt for pardon; that for ſins of <hi>daily</hi> incurſion we take this courſe in our <hi>daily</hi> pray<g ref="char:EOLhyphen"/>ers, and after more <hi>eminent</hi> ſins that we be more <hi>ſo<g ref="char:EOLhyphen"/>lemnly</hi> humbled before Almighty God: that we do not <hi>allow</hi> our ſelves in our defects, much leſs <hi>rolle ſin as a ſweet morſel under our tongue,</hi> but that we <hi>bewail</hi> our defects, and be daily <hi>preſſing</hi> forward toward <hi>perfection.</hi>
+            </p>
+            <p n="4">
+               <pb n="27" facs="tcp:42109:16"/>(4.) Upon <hi>theſe terms</hi> I believe God doth <hi>accept us in the beloved,</hi> our <hi>ſins</hi> being pardon'd through the <hi>imputation</hi> of Chriſt's righteouſneſs, apprehended by <hi>faith;</hi> and our <hi>defects</hi> in obedience winked at by the fatherly <hi>indulgence</hi> of a merciful God, who <hi>ſpareth us even as a man ſpareth his own ſon that ſerveth him,</hi> Mal. 3.17. And being placed under theſe terms we have ſo little temptation to ſhun the ſervice of God as of an <hi>auſtere maſter</hi> that will not be <hi>pleaſed,</hi> let us do what we can; that we have rather very great en<g ref="char:EOLhyphen"/>couragement to <hi>run the ways of Gods commandments</hi> with <hi>enlarged hearts,</hi> and to have our ſouls carried as on the <hi>Chariots of Aminadib,</hi> as knowing that he is a <hi>good Maſter,</hi> a liberal <hi>rewarder of them that diligently ſerve him,</hi> and that his ſervice is <hi>perfect freedom.</hi>
+            </p>
+            <p>To conclude, We ſee here the <hi>infinite wiſdom</hi> and <hi>juſtice</hi> of God in his dealings with Man, who gives him ſufficient <hi>knowledge</hi> of his duty &amp; intereſt, gives him ſufficient <hi>encouragement</hi> to chooſe the good and refuſe the evil, leaves him under no <hi>inſuperable indiſ<g ref="char:EOLhyphen"/>poſition</hi> for doing his duty, and requires of him no<g ref="char:EOLhyphen"/>thing <hi>ſimply impoſſible</hi> for him to do. How <hi>wiſe</hi> then and <hi>happy</hi> are they that make a due uſe of theſe fa<g ref="char:EOLhyphen"/>vours of God! that ſtudy not to <hi>diſpute</hi> the com<g ref="char:EOLhyphen"/>mands of God, or their <hi>conſiſtency</hi> with his <hi>decrees,</hi> but leave thoſe <hi>ſecret things to the Lord,</hi> and take care of thoſe <hi>revealed</hi> things that belong to us. How
+<pb n="28" facs="tcp:42109:17"/> great an <hi>enemy</hi> then is the Devil that be fools us into thoſe excuſes that will ſignify nothing before the righteous Judge! that firſt endeavours to rob us of our <hi>innocency</hi> by his temptations, and then of the <hi>only refuge</hi> of ſinners, <hi>repentance;</hi> by ſuch ſuggeſtions as theſe: But ſuch is his nature, he hath been a <hi>lyar</hi> and <hi>deceiver from the beginning.</hi> How great is the <hi>folly</hi> of thoſe that hearken to theſe deluſions! that <hi>neglect</hi> ſo great ſalvation through ſtudying excuſes to evade plain and neceſſary duties, at once arguing them<g ref="char:EOLhyphen"/>ſelves out of their <hi>reaſon,</hi> while they ſeek to argue themſelves out of a <hi>capacity</hi> to embrace and obey the Laws of their Maker.</p>
+            <p>Finally, how will the <hi>righteous Judg</hi> of all the earth be <hi>juſtified in his ſayings, and clear when he judgeth</hi> the world! At preſent <hi>wiſdom is juſtified of all her children:</hi> but then <hi>every mouth ſhall be ſtopped, and the whole world be found guilty before God:</hi> Then ſhall the Fig-leaves of <hi>excuſes</hi> drop away, and Men be judged accord<g ref="char:EOLhyphen"/>ing to the <hi>talents</hi> committed to their truſt.</p>
+            <p>God of his mercy make us ſo wiſe as to <hi>prevent</hi> the <hi>ſeverity</hi> of that judgment by <hi>repenting</hi> and <hi>amend<g ref="char:EOLhyphen"/>ing</hi> in due time. Now to the bleſſed and undivided Trinity, God the Father, the Son, and the Holy Ghoſt, be given, as is moſt due, all honour and worſhip, and ſervice, now and for ever, <hi>Amen.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:42109:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
